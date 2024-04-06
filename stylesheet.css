@@ -1,0 +1,36 @@
+body {
+    background-image: url(\Tech\ pic\ 5.jpeg);
+    color: white;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: auto;
+    height:100%;
+    margin-top: 20px;
+    padding: 20px;
+    scroll-behavior:smooth;
+}
+
+nav ul{
+    list-style: none;       
+    display: flex;
+    justify-content: space-between;
+    background-color:black;
+    padding: 10px;
+
+}
+h1 {
+    text-decoration: underline red;
+    color: cadetblue;
+}
+a {
+    text-decoration: none;
+}
+nav a {
+    color: bisque;
+}
+#mail {
+    color: chartreuse;
+}
+footer {
+    margin-bottom: 50px;
+}
